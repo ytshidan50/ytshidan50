@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="YOUR_LOGO_URL_HERE" alt="SHIDAN V">
+  <img width="700" src="./assets/logo.png" alt="SHIDAN V">
 </p>
 
 <h3 align="center">Aspiring AI/ML Engineer | Electronics and Communication Engineer</h3>
@@ -13,6 +13,7 @@
 ## 📌 About Me
 
 I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <br>
 
@@ -35,10 +36,13 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&hide_border=true&bg_color=00000000&title_color=84ff4f&text_color=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ytshidan50&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SHIDAN V's GitHub Trophies" />
+</p>
+
 <br>
 
 ## 🚀 Current Focus
-
 ```text
 Machine Learning
 Python Development

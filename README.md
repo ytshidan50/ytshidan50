@@ -37,6 +37,12 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 </p>
 
 <h3 align="center">🌐 Top Languages</h3>
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ![Top language](https://stats.pphat.top/languages?username=ytshidan50)
 
 <h3 align="center">🚀 Current Focus</h3>

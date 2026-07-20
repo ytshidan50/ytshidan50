@@ -11,39 +11,60 @@ Aspiring AI/ML Engineer | Electronics and Communication Engineer
 </p>
 
 <h3 align="center">📌 About Me</h3>
-<br/>
+<br>
 I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
 
 <h3 align="center">👨🏽‍💻 Tech Stacks</h3>
-<br/>
+<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,postgres,docker,git,vscode,postman&theme=dark" />
+  <a href="https://github.com/ytshidan50">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,postgres,docker,git,vscode,postman&theme=dark" />
+  </a>
 </p>
 
 <h3 align="center">📊 Github Analysis</h3>
-<br/>
+<br>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF&icon_color=D92B2B&include_all_commits=true" />
+  <a href="https://github.com/ytshidan50">
+    <img height="180em" src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=84FF4F&fire=D92B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=84FF4F&sideNums=D92B2B" />
+  </a>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
+  </a>
+</p>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=84FF4F&fire=D92B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=84FF4F&sideNums=D92B2B" />
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF&icon_color=D92B2B&include_all_commits=true" />
+  </a>
+</p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
+  </a>
 </p>
 
 <h3 align="center">🌐 Top Languages</h3>
-<br/>
+<br>
 <p align="center">
   <a href="https://github.com/ytshidan50">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
-    ![Top language](https://stats.pphat.top/languages?username=ytshidan50)
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages](https://stats.pphat.top/languages?username=ytshidan50)" />
   </a>
 </p>
 
 
 <h3 align="center">🚀 Current Focus</h3>
-<br/>
+<br>
 ```text
 Machine Learning
 Python Development
@@ -54,7 +75,7 @@ Real-World Projects
 ```
 
 <h3 align="center">🔗 Connect With Me</h3>
-<br/>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=84FF4F">

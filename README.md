@@ -11,7 +11,7 @@ Aspiring AI/ML Engineer | Electronics and Communication Engineer
 </p>
 
 <h3 align="center">📌 About Me</h3>
-<br>
+---
 I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
 
 <h3 align="center">👨🏽‍💻 Tech Stacks</h3>
@@ -23,7 +23,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 </p>
 
 <h3 align="center">📊 Github Analysis</h3>
-<br>
+---
 <p align="center">
   <a href="https://github.com/ytshidan50">
     <img height="180em" src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=84FF4F&fire=D92B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=84FF4F&sideNums=D92B2B" />
@@ -49,7 +49,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 </p>
 
 <h3 align="center">🌐 Top Languages</h3>
-<br>
+---
 <p align="center">
   <a href="https://github.com/ytshidan50">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
@@ -64,7 +64,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 
 
 <h3 align="center">🚀 Current Focus</h3>
-<br>
+---
 ```text
 Machine Learning
 Python Development
@@ -75,7 +75,7 @@ Real-World Projects
 ```
 
 <h3 align="center">🔗 Connect With Me</h3>
-<br>
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=84FF4F">
@@ -101,7 +101,7 @@ Real-World Projects
 <p align="center">
   <b>@ytshidan50 Everywhere;</b>
 </p>
-<br/>
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">

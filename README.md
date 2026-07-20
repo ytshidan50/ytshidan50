@@ -58,7 +58,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 
 <p align="center">
   <a href="https://github.com/ytshidan50">
-    <img src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages](https://stats.pphat.top/languages?username=ytshidan50)" />
+    <img src="https://stats.pphat.top/languages?username=ytshidan50" />
   </a>
 </p>
 

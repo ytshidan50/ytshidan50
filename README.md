@@ -1,109 +1,77 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:ff0000,100:00ff44&text=SHIDAN%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer%20in%20Progress&descSize=22&descColor=ffffff&descAlignY=65" width="100%" />
+  <img width="700" src="YOUR_LOGO_URL_HERE" alt="SHIDAN V">
 </p>
 
-<div align="center">
+<h3 align="center">Aspiring AI/ML Engineer | Electronics and Communication Engineer</h3>
 
-# SHIDAN V
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3500&pause=1000&color=84FF4F&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Building+Practical+AI%2FML+Projects;Problem+Solver+%7C+Developer+%7C+Engineer" alt="Typing SVG">
+</p>
 
-### Machine Learning Engineer in Progress • Electronics & Communication Engineer
+<br>
 
-Building practical AI/ML solutions while strengthening software engineering, data structures, algorithms, and backend development skills.
+## 📌 About Me
 
-</div>
+I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
 
----
+<br>
 
-## About Me
+## ⚙️ Tech Stack
 
-- Electronics and Communication Engineering graduate.
-- Transitioning into Machine Learning Engineering.
-- Strong foundation in problem-solving, logical reasoning, and analytical thinking.
-- Passionate about Artificial Intelligence, Machine Learning, and Automation.
-- Continuously building real-world projects to improve practical development skills.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,postgres,docker,git,vscode,postman&theme=dark" />
+</p>
 
----
+<br>
 
-## Tech Stack
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&hide_border=true&bg_color=00000000&title_color=84ff4f&text_color=ffffff&icon_color=d92b2b" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ytshidan50&hide_border=true&background=00000000&ring=84ff4f&fire=d92b2b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=84ff4f&sideNums=d92b2b" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,postgres,docker,git,vscode,postman&perline=11" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&hide_border=true&bg_color=00000000&title_color=84ff4f&text_color=ffffff" />
+</p>
 
-</div>
+<br>
 
----
-
-## Featured Projects
-
-### Borewell Automation
-Automated water level monitoring and pump control system designed to optimize water management and reduce manual intervention.
-
-### Advanced Home Automation
-Smart home automation project focused on device control, monitoring, and efficient resource management.
-
-### Machine Learning Journey
-Actively developing machine learning projects involving data analysis, prediction models, and practical AI applications.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff44&text_color=ffffff&icon_color=ff3333" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ytshidan50&hide_border=true&background=00000000&ring=00ff44&fire=ff3333&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff44&sideNums=ff3333" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff44&text_color=ffffff" />
-
-</div>
-
----
-
-## Current Focus
+## 🚀 Current Focus
 
 ```text
-✓ Python Development
-✓ Data Structures & Algorithms
-✓ Machine Learning Fundamentals
-✓ Real-World AI Projects
-✓ Backend Development
-✓ Problem Solving
+Machine Learning
+Python Development
+Data Structures & Algorithms
+Backend Systems
+Problem Solving
+Real-World Projects
 ```
 
----
+<br>
 
-## Connect With Me
+## 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ytshidan50/">
+    <img src="https://img.shields.io/badge/LINKEDIN-84FF4F?style=for-the-badge&logo=linkedin&logoColor=000000">
+  </a>
 
-<a href="https://www.linkedin.com/in/ytshidan50/">
-  <img src="https://img.shields.io/badge/LinkedIn-00ff44?style=for-the-badge&logo=linkedin&logoColor=000000" />
-</a>
+  <a href="https://x.com/ytshidan50">
+    <img src="https://img.shields.io/badge/X-D92B2B?style=for-the-badge&logo=x&logoColor=FFFFFF">
+  </a>
 
-<a href="https://x.com/ytshidan50">
-  <img src="https://img.shields.io/badge/X-ff3333?style=for-the-badge&logo=x&logoColor=ffffff" />
-</a>
+  <a href="mailto:ytshidan50@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
+  </a>
 
-<a href="mailto:ytshidan50@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" />
-</a>
+  <a href="https://shidan.magmc.in">
+    <img src="https://img.shields.io/badge/WEBSITE-84FF4F?style=for-the-badge&logo=googlechrome&logoColor=000000">
+  </a>
+</p>
 
-<a href="https://shidan.magmc.in">
-  <img src="https://img.shields.io/badge/Website-00ff44?style=for-the-badge&logo=googlechrome&logoColor=000000" />
-</a>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### "Learning, Building, Improving — One Project at a Time."
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
+</p>

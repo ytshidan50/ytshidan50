@@ -10,17 +10,17 @@ Aspiring AI/ML Engineer | Electronics and Communication Engineer
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=84FF4F&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer+in+Progress;Machine+Learning+%7C+Python+%7C+Backend+Systems;Building+Practical+AI%2FML+Projects;Problem+Solver+%7C+Developer+%7C+Engineer" alt="Typing SVG"/>
 </p>
 
-## 📌 About Me
+<h3 align="center">📌 About Me</h3>
 
 I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
 
-## ⚙️ Tech Stack
+<h3 align="center">👨🏽‍💻 Tech Stacks</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,postgres,docker,git,vscode,postman&theme=dark" />
 </p>
 
-## 📊 GitHub Analytics
+<h3 align="center">📊 Github Analysis</h3>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
@@ -36,21 +36,10 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
   <img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-## 🌐 Top Languages
+<h3 align="center">🌐 Top Languages</h3>
+![Top language](https://stats.pphat.top/languages?username=ytshidan50)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ytshidan50&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ytshidan50&theme=github_dark" />
-</p>
-
-## 🚀 Current Focus
+<h3 align="center">🚀 Current Focus</h3>
 
 ```text
 Machine Learning
@@ -61,7 +50,7 @@ Problem Solving
 Real-World Projects
 ```
 
-## 🔗 Connect With Me
+<h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">

@@ -23,31 +23,23 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF&icon_color=D92B2B" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF&icon_color=D92B2B" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=84FF4F&fire=D92B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=84FF4F&sideNums=D92B2B" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=84FF4F&fire=D92B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=84FF4F&sideNums=D92B2B" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=8" />
 </p>
 
 ## 🌐 Top Languages
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ytshidan50&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ytshidan50&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF" />
 </p>
 
 ## 🚀 Current Focus
@@ -82,15 +74,11 @@ Real-World Projects
 </p>
 
 <p align="center">
-<img width="180" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/refs/heads/main/assets/logo.png" alt="YTShidan Logo">
+<img width="130" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/refs/heads/main/assets/logo.png" alt="YT SHIDAN's Logo">
 </p>
-
 <p align="center">
-<b>YTSHIDAN50</b>
+<b>@ytshidan50 Everywhere;</b>
 </p>
-
-## 🕹️ Contribution Activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">

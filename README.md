@@ -11,7 +11,7 @@ Aspiring AI/ML Engineer | Electronics and Communication Engineer
 </p>
 
 <h3 align="center">📌 About Me</h3>
----
+~~~
 I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
 
 <h3 align="center">👨🏽‍💻 Tech Stacks</h3>

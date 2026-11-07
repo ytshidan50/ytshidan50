@@ -33,16 +33,16 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF24" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF24" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ytshidan50">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-  <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FF1724" alt="Portfolio" />
+  <a href="https://x.com/ytshidan50">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF1724" alt="X" />
   </a>
   <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF24" alt="Email" />
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF24" alt="Gmail" />
+  </a>
+  <a href="https://shidan.magmc.in">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
   </a>
 </p>
 
@@ -180,20 +180,6 @@ I use projects to turn concepts into working solutions. Explore my repositories 
 </p>
 
 <!-- Personal Logo -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=84FF4F">
-  </a>
-  <a href="https://x.com/ytshidan50">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=D92B2B">
-  </a>
-  <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=84FF4F">
-  </a>
-  <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=D92B2B">
-  </a>
-</p>
 <p align="center">
   <a href="https://shidan.magmc.in">
     <img width="180" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png" alt="YT SHIDAN">

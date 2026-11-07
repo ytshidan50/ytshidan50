@@ -39,7 +39,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ytshidan50">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=84FF4F&text_color=FFFFFF&icon_color=D92B2B&include_all_commits=true" />
   </a>
@@ -49,7 +49,7 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
   <a href="https://github.com/ytshidan50">
     <img src="https://github-profile-trophy.vercel.app/?username=ytshidan50&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
   </a>
-</p>
+</p> -->
 
 
 <h3 align="center">🌐 Top Languages</h3>
@@ -60,23 +60,18 @@ I am an Electronics and Communication Engineering graduate transitioning into a 
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ytshidan50">
     <img src="https://stats.pphat.top/languages?username=ytshidan50" />
   </a>
-</p>
+</p> -->
 
 
 <h3 align="center">🚀 Current Focus</h3>
 
-```text
-Machine Learning
-Python Development
-Data Structures & Algorithms
-Backend Systems
-Problem Solving
-Real-World Projects
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=84FF4F&center=true&vCenter=true&width=900&lines=Machine+Learning;Python+Development;Data+Structures+%26+Algorithms;Backend+Systems;Problem+Solving;Real-World+Projects" alt="Current Focus"/>
+</p>
 
 
 <h3 align="center">🔗 Connect With Me</h3>

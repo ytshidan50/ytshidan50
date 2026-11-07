@@ -48,7 +48,7 @@
 
 ---
 
-## About Me
+<h3 align="center">About Me</h3>
 
 I am an Electronics and Communication Engineering graduate focused on transitioning into Machine Learning Engineering.
 
@@ -56,7 +56,9 @@ My engineering background has shaped the way I approach problems: understand how
 
 I am currently strengthening my foundations through hands-on learning and building practical projects.
 
----
+<br>
+<br>
+<br>
 
 ## Technical Skills
 

@@ -164,27 +164,28 @@ I use projects to turn concepts into working solutions. Explore my repositories 
 
 <h2 align="center">Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF24" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ytshidan50">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF1724" alt="X" />
-  </a>
-  <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF24" alt="Gmail" />
-  </a>
-  <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
-  </a>
-</p>
-
 <!-- Personal Logo -->
 <p align="center">
   <a href="https://shidan.magmc.in">
     <img width="180" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png" alt="YT SHIDAN">
   </a>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ytshidan50/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ytshidan50" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
+  </a>
+  <a href="mailto:ytshidan50@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
+  </a>
+  <a href="https://shidan.magmc.in" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
+  </a>
+</div>
+
 <p align="center">
   <b>@ytshidan50 Everywhere;</b>
 </p>

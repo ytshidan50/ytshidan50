@@ -124,7 +124,7 @@ I use projects to turn concepts into working solutions. Explore my repositories 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=00FF24&fire=FF1724&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF24&sideNums=FF1724"
+    src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=c5ff4a&fire=FF1724&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF24&sideNums=FF1724"
     height="180"
     alt="GitHub contribution streak"
   />

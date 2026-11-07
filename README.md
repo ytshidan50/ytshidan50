@@ -60,22 +60,16 @@ I am currently strengthening my foundations through hands-on learning and buildi
 
 <h2 align="center">Technical Skills</h2>
 
-<p align="center"><b>Programming Languages</b></p>
+<p align="center"><b>Programming Languages & Backend</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" alt="Python, Java and JavaScript" />
-</p>
-
-<p align="center"><b>Backend & Databases</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,django&theme=dark" alt="Python, Java, JavaScript, Node.js, Express and Django" />
 </p>
 
 <p align="center"><b>Data & Machine Learning</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,opencv&theme=dark" alt="NumPy and OpenCV" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,opencv&theme=dark" alt="MongoDB, PostgreSQL, NumPy, Matplotlib, Pandas, Seaborn and OpenCV" />
 </p>
 
 <p align="center"><b>Development Tools</b></p>

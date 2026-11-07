@@ -1,194 +1,147 @@
-<!--
-  GitHub Profile README — Shidan V
-  Theme: Black · Red · Green · White
-  Green: #00FF24 | Red: #FF1724 | White: #FFFFFF | Background: #000000
--->
-
-<!-- Animated Header -->
+<!-- Animated Header: generated with Capsule Render -->
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Animated technology banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F172A%2C100%3A1E293B&height=190&section=header&text=SHIDAN%20V&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=ASPIRING%20AI%2FML%20ENGINEER&descAlignY=60&descSize=14&animation=fadeIn"
+    alt="Shidan V — Aspiring AI/ML Engineer"
     width="100%"
   />
 </p>
 
-<!-- Identity -->
-<h1 align="center">SHIDAN V</h1>
+<h3 align="center">Aspiring AI/ML Engineer | Electronics and Communication Engineer</h3>
 
-<p align="center">
-  <b>Aspiring AI/ML Engineer</b>
-  <br />
-  Electronics and Communication Engineering Graduate
-</p>
-
-<!-- Animated Introduction -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=00FF24&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer+in+Progress;Machine+Learning+%7C+Python+%7C+Backend+Systems;Building+Practical+AI%2FML+Projects;Problem+Solver+%7C+Developer+%7C+Engineer"
-    alt="Animated professional introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=58D68D&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer+in+Progress;Machine+Learning+%7C+Python+%7C+Backend+Systems;Building+Practical+AI%2FML+Projects;Problem+Solver+%7C+Developer+%7C+Engineer"
+    alt="Typing introduction"
   />
 </p>
 
-<!-- Social Links -->
+<br />
+<hr />
+<br />
+
+<h3 align="center">📌 About Me</h3>
+
+<p align="center">
+  I am an Electronics and Communication Engineering graduate transitioning into a Machine Learning Engineer role. I bring a strong foundation in problem-solving, data structures, logical operations, and analytical thinking developed through engineering studies and hands-on practice.
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3 align="center">👨🏽‍💻 Tech Stacks</h3>
+
+<p align="center"><b>Programming & Backend</b></p>
+<p align="center">
+  <a href="https://shidan.magmc.in/">
+    <img
+      src="https://skillicons.dev/icons?i=py,java,js,nodejs,express,mongodb,postgres&theme=dark"
+      alt="Python, Java, JavaScript, Node.js, Express, MongoDB and PostgreSQL"
+    />
+  </a>
+</p>
+
+<p align="center"><b>Data Science & Machine Learning</b></p>
+<p align="center">
+  <code>NumPy</code> &nbsp; <code>Pandas</code> &nbsp; <code>Matplotlib</code> &nbsp; <code>Seaborn</code> &nbsp; <code>Scikit-learn</code>
+</p>
+
+<p align="center"><b>Development Tools & Templating</b></p>
+<p align="center">
+  <a href="https://shidan.magmc.in/">
+    <img
+      src="https://skillicons.dev/icons?i=docker,git,vscode,postman&theme=dark"
+      alt="Docker, Git, Visual Studio Code and Postman"
+    />
+  </a>
+  &nbsp; <code>Handlebars</code>
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3 align="center">📊 GitHub Analysis</h3>
+
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=0D1117&ring=58D68D&fire=58D68D&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
+      alt="GitHub contribution streak"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=ytshidan50&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9&icon_color=58D68D&include_all_commits=true"
+      alt="GitHub profile statistics"
+    />
+  </a>
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3 align="center">🌐 Top Languages</h3>
+
+<p align="center">
+  <a href="https://github.com/ytshidan50">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=58D68D&text_color=C9D1D9"
+      alt="Most used programming languages"
+    />
+  </a>
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3 align="center">🚀 Current Focus</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=58D68D&center=true&vCenter=true&width=900&lines=Machine+Learning;Python+Development;Data+Structures+%26+Algorithms;Backend+Systems;Problem+Solving;Real-World+Projects"
+    alt="Current focus"
+  />
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3 align="center">🔗 Connect With Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF24" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=58D68D" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ytshidan50">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF1724" alt="X" />
+    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=58D68D" alt="X" />
   </a>
   <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF24" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=58D68D" alt="Gmail" />
   </a>
   <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
+    <img src="https://img.shields.io/badge/WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=58D68D" alt="Website" />
   </a>
 </p>
 
-<h3 align="center">About Me</h3>
-
-I am an Electronics and Communication Engineering graduate focused on transitioning into Machine Learning Engineering.
-
-My engineering background has shaped the way I approach problems: understand how a system works, break complex problems into manageable parts, and develop practical solutions. I enjoy applying this approach to Python development, machine learning, algorithms, and backend systems.
-
-I am currently strengthening my foundations through hands-on learning and building practical projects.
-
-<br>
-<br>
-<br>
-
-<h2 align="center">Technical Skills</h2>
-
-<p align="center"><b>Programming Languages & Backend</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,django&theme=dark" alt="Python, Java, JavaScript, Node.js, Express and Django" />
-</p>
-
-<p align="center"><b>Data & Machine Learning</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,opencv&theme=dark" alt="MongoDB, PostgreSQL, NumPy, Matplotlib, Pandas, Seaborn and OpenCV" />
-</p>
-
-<p align="center"><b>Development Tools</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Git, GitHub, Docker, VS Code and Postman" />
-</p>
-
-<br>
-<br>
-<br>
-
-<h2 align="center">Current Focus</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=FF1724&center=true&vCenter=true&width=850&lines=Machine+Learning+Fundamentals;Python+%26+Data+Analysis;Data+Structures+%26+Algorithms;Exploratory+Data+Analysis;Backend+Development;Practical+AI%2FML+Projects"
-    alt="Animated current learning focus"
-  />
-</p>
-
-<br>
-<br>
-<br>
-
-<h2 align="center">Featured Projects</h2>
-
-I use projects to turn concepts into working solutions. Explore my repositories to see my ongoing development and practical work.
-
-<p align="center">
-  <a href="https://github.com/ytshidan50?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=00FF24" alt="Explore repositories" />
-  </a>
-</p>
-
-<!--
-  Add 2–4 completed or active projects here when their repositories are ready.
-
-  For each project, include:
-  - A clear problem statement
-  - What you implemented
-  - Technologies actually used
-  - A measurable result or useful demonstration
-  - A link to the repository
--->
-
-<br>
-<br>
-<br>
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ytshidan50&theme=dark&hide_border=true&background=00000000&ring=00FF24&fire=FF1724&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF24&sideNums=FF1724"
-    height="180"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytshidan50&theme=github_dark"
-    alt="GitHub profile summary"
-    width="100%"
-  />
-</p>
-
-<br>
-<br>
-<br>
-
-<h2 align="center">Top Languages</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ytshidan50&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF24&text_color=FFFFFF"
-    height="180"
-    alt="Most used programming languages"
-  />
-</p>
-
-<br>
-<br>
-<br>
-
-<h2 align="center">Connect With Me</h2>
-
-<!-- Personal Logo -->
 <p align="center">
   <a href="https://shidan.magmc.in">
-    <img width="180" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png" alt="YT SHIDAN">
+    <img
+      width="180"
+      src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png"
+      alt="YT SHIDAN logo"
+    />
   </a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ytshidan50/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ytshidan50" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" />
-  </a>
-  <a href="mailto:ytshidan50@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
-  </a>
-  <a href="https://shidan.magmc.in" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
-  </a>
-</div>
-
-<p align="center">
-  <b>@ytshidan50 Everywhere;</b>
-</p>
-
-<!-- Animated GitHub Contribution Graph -->
-<!-- Requires a GitHub Actions workflow to generate the SVG files in the output branch. -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center"><b>@ytshidan50 Everywhere;</b></p>

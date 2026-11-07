@@ -60,7 +60,7 @@ I am currently strengthening my foundations through hands-on learning and buildi
 <br>
 <br>
 
-<h3 align="center">Technical Skills</h3>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center"><b>Programming Languages</b></p>
 

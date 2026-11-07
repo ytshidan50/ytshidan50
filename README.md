@@ -33,16 +33,16 @@
 <!-- Social Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=58D68D" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=c5ff4a" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ytshidan50">
-    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=58D68D" alt="X" />
+    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=c5ff4a" alt="X" />
   </a>
   <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=58D68D" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=c5ff4a" alt="Gmail" />
   </a>
   <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=58D68D" alt="Website" />
+    <img src="https://img.shields.io/badge/WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=c5ff4a" alt="Website" />
   </a>
 </div>
 
@@ -167,16 +167,16 @@ I use projects to turn concepts into working solutions. Explore my repositories 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=58D68D" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=c5ff4a" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ytshidan50">
-    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=58D68D" alt="X" />
+    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=c5ff4a" alt="X" />
   </a>
   <a href="mailto:ytshidan50@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=58D68D" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=c5ff4a" alt="Gmail" />
   </a>
   <a href="https://shidan.magmc.in">
-    <img src="https://img.shields.io/badge/WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=58D68D" alt="Website" />
+    <img src="https://img.shields.io/badge/WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=c5ff4a" alt="Website" />
   </a>
 </div>
 

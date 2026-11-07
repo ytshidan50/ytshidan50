@@ -46,8 +46,6 @@
   </a>
 </p>
 
----
-
 <h3 align="center">About Me</h3>
 
 I am an Electronics and Communication Engineering graduate focused on transitioning into Machine Learning Engineering.
@@ -86,9 +84,11 @@ I am currently strengthening my foundations through hands-on learning and buildi
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Git, GitHub, Docker, VS Code and Postman" />
 </p>
 
----
+<br>
+<br>
+<br>
 
-## Current Focus
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
   <img
@@ -97,9 +97,11 @@ I am currently strengthening my foundations through hands-on learning and buildi
   />
 </p>
 
----
+<br>
+<br>
+<br>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 I use projects to turn concepts into working solutions. Explore my repositories to see my ongoing development and practical work.
 
@@ -120,9 +122,11 @@ I use projects to turn concepts into working solutions. Explore my repositories 
   - A link to the repository
 -->
 
----
+<br>
+<br>
+<br>
 
-## GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img
@@ -140,9 +144,11 @@ I use projects to turn concepts into working solutions. Explore my repositories 
   />
 </p>
 
----
+<br>
+<br>
+<br>
 
-## Top Languages
+<h2 align="center">Top Languages</h2>
 
 <p align="center">
   <img
@@ -152,9 +158,11 @@ I use projects to turn concepts into working solutions. Explore my repositories 
   />
 </p>
 
----
+<br>
+<br>
+<br>
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ytshidan50/">
@@ -173,38 +181,33 @@ I use projects to turn concepts into working solutions. Explore my repositories 
 
 <!-- Personal Logo -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/ytshidan50/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=84FF4F">
+  </a>
+  <a href="https://x.com/ytshidan50">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=D92B2B">
+  </a>
+  <a href="mailto:ytshidan50@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=84FF4F">
+  </a>
   <a href="https://shidan.magmc.in">
-    <img
-      src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png"
-      width="150"
-      alt="Shidan personal logo"
-    />
+    <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=D92B2B">
   </a>
 </p>
-
 <p align="center">
-  <b>@ytshidan50</b>
+  <a href="https://shidan.magmc.in">
+    <img width="180" src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/main/assets/logo.png" alt="YT SHIDAN">
+  </a>
 </p>
-
----
+<p align="center">
+  <b>@ytshidan50 Everywhere;</b>
+</p>
 
 <!-- Animated GitHub Contribution Graph -->
 <!-- Requires a GitHub Actions workflow to generate the SVG files in the output branch. -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ytshidan50/ytshidan50/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ytshidan50/ytshidan50/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animated GitHub contribution graph"
-      src="https://raw.githubusercontent.com/ytshidan50/ytshidan50/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
